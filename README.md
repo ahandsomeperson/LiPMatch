@@ -1,4 +1,4 @@
-#LiPMatch: LiDAR Point Cloud Plane based Loop-Closure
+## LiPMatch: LiDAR Point Cloud Plane based Loop-Closure
 
 
 We present a point clouds based loop-closure method to correct long-term drift in Light Detection and Ranging based Simultaneous Localization and Mapping systems.
