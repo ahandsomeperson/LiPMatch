@@ -20,4 +20,8 @@ The BibTeX entry for the paper is:
 
 ## License
 
+Copyright 2020 Jianwen Jiang, University of Science and Technology of China.
+
+
+This project is free software made available under the MIT License. For details see the LICENSE file.
 
